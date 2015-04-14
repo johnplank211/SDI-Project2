@@ -19,7 +19,7 @@ var startEibDay = function (i) {
 				} else {
 					console.log("Well thank God that's over! ");
 					for (var days = 3; days > 0; days--) {
-						console.log("Dam it feels good to be a gansta! ");
+						console.log("Feels good to be a gansta! ");
 					return;
 }
 }
